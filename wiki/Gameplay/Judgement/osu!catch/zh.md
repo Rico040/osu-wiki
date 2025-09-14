@@ -8,10 +8,10 @@
 
 | 图像 | 名称 | [打击分值](/wiki/Gameplay/Score/ScoreV1/osu!catch) |
 | :-: | :-: | --: |
-| ![](img/catch-300.png) | [大果](/wiki/Gameplay/Hit_object/Fruit) | 300 |
-| ![](img/catch-100.png) | [中果](/wiki/Gameplay/Hit_object/Juice_stream#中果) | 30 |
-| ![](img/catch-50.png) | [小果](/wiki/Gameplay/Hit_object/Juice_stream#小果) | 10 |
-| ![](img/catch-banana.png) | [香蕉](/wiki/Gameplay/Hit_object/Banana) | 1,100 |
+| ![](/wiki/shared/judgement/osu!catch/catch-300.png) | [大果](/wiki/Gameplay/Hit_object/Fruit) | 300 |
+| ![](/wiki/shared/judgement/osu!catch/catch-100.png) | [中果](/wiki/Gameplay/Hit_object/Juice_stream#中果) | 100 |
+| ![](/wiki/shared/judgement/osu!catch/catch-50.png) | [小果](/wiki/Gameplay/Hit_object/Juice_stream#小果) | 10 |
+| ![](/wiki/shared/judgement/osu!catch/catch-banana.png) | [香蕉](/wiki/Gameplay/Hit_object/Banana) | 1,100 |
 
 ## 判定机制
 

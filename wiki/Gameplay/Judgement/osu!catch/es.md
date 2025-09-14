@@ -8,10 +8,10 @@ Un **juicio** o **resultado de golpeo** es el resultado de interactuar con un [o
 
 | Imagen | Nombre | [Valor de golpeo](/wiki/Gameplay/Score/ScoreV1/osu!catch) |
 | :-: | :-: | --: |
-| ![](img/catch-300.png) | [Fruta](/wiki/Gameplay/Hit_object/Fruit) | 300 |
-| ![](img/catch-100.png) | [Gota](/wiki/Gameplay/Hit_object/Juice_stream#gota) | 30 |
-| ![](img/catch-50.png) | [Gotita](/wiki/Gameplay/Hit_object/Juice_stream#gotita) | 10 |
-| ![](img/catch-banana.png) | [Plátano](/wiki/Gameplay/Hit_object/Banana) | 1100 |
+| ![](/wiki/shared/judgement/osu!catch/catch-300.png) | [Fruta](/wiki/Gameplay/Hit_object/Fruit) | 300 |
+| ![](/wiki/shared/judgement/osu!catch/catch-100.png) | [Gota](/wiki/Gameplay/Hit_object/Juice_stream#gota) | 100 |
+| ![](/wiki/shared/judgement/osu!catch/catch-50.png) | [Gotita](/wiki/Gameplay/Hit_object/Juice_stream#gotita) | 10 |
+| ![](/wiki/shared/judgement/osu!catch/catch-banana.png) | [Plátano](/wiki/Gameplay/Hit_object/Banana) | 1100 |
 
 ## Mecánicas de juicio
 

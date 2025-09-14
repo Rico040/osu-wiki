@@ -8,10 +8,10 @@ Un **jugement**, ou **résultat de hit** (hit result), est le résultat de l'int
 
 | Image | Nom | [Valeur de hit](/wiki/Gameplay/Score/ScoreV1/osu!catch) |
 | :-: | :-: | --: |
-| ![](img/catch-300.png) | [Fruit](/wiki/Gameplay/Hit_object/Fruit) | 300 |
-| ![](img/catch-100.png) | [Drop](/wiki/Gameplay/Hit_object/Juice_stream#drop) | 30 |
-| ![](img/catch-50.png) | [Droplet](/wiki/Gameplay/Hit_object/Juice_stream#droplet) | 10 |
-| ![](img/catch-banana.png) | [Banane](/wiki/Gameplay/Hit_object/Banana) | 1,100 |
+| ![](/wiki/shared/judgement/osu!catch/catch-300.png) | [Fruit](/wiki/Gameplay/Hit_object/Fruit) | 300 |
+| ![](/wiki/shared/judgement/osu!catch/catch-100.png) | [Drop](/wiki/Gameplay/Hit_object/Juice_stream#drop) | 100 |
+| ![](/wiki/shared/judgement/osu!catch/catch-50.png) | [Droplet](/wiki/Gameplay/Hit_object/Juice_stream#droplet) | 10 |
+| ![](/wiki/shared/judgement/osu!catch/catch-banana.png) | [Banane](/wiki/Gameplay/Hit_object/Banana) | 1,100 |
 
 ## Mécaniques de jugement
 
